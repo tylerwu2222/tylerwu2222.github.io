@@ -1,0 +1,7 @@
+﻿material,water_use,energy_consumption,CO2_emission,fibre_production,tooltip_text
+Cotton,1559,48,2.2,27,"The most popular plant-based fabric because it is easy to harvest, clean, and use; Uses the most water"
+Wool,530,120,17,1.2,"Collected from hides of sheep (and other animals, including llamas!); high CO2 emissions"
+Cellulosics,92,85,3.3,7,Made from cellulose (plant fiber)
+Hemp,89,22,3.1,0.09,"The most environmentally friendly fabric, but rough texture; Also usually mixed with other materials"
+Polyamide,40,160,8.3,6.1,"aka Nylon, low water use, but very high energy consumption"
+Polyester,21,108,3.3,54,"Synthetic material made from a chemical reaction between petroleum, air, and water"
