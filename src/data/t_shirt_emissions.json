@@ -1,0 +1,27 @@
+[
+  {
+    "Production Type": "Cotton production",
+    "Precentage": 8,
+    "Usage": 208
+  },
+  {
+    "Production Type": "Yarn production",
+    "Precentage": 19,
+    "Usage": 494
+  },
+  {
+    "Production Type": "Garment production",
+    "Precentage": 50,
+    "Usage": 1300
+  },
+  {
+    "Production Type": "Distribution & retailing",
+    "Precentage": 4,
+    "Usage": 104
+  },
+  {
+    "Production Type": "User phase",
+    "Precentage": 19,
+    "Usage": 494
+  }
+]

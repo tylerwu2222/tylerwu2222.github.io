@@ -1,0 +1,50 @@
+[
+  {
+    "material": "Cotton",
+    "water_use": 1559,
+    "energy_consumption": 48,
+    "CO2_emission": 2.2,
+    "fibre_production": 27,
+    "tooltip_text": "The most popular plant-based fabric because it is easy to harvest, clean, and use; Uses the most water"
+  },
+  {
+    "material": "Wool",
+    "water_use": 530,
+    "energy_consumption": 120,
+    "CO2_emission": 17,
+    "fibre_production": 1.2,
+    "tooltip_text": "Collected from hides of sheep (and other animals, including llamas!); high CO2 emissions"
+  },
+  {
+    "material": "Cellulosics",
+    "water_use": 92,
+    "energy_consumption": 85,
+    "CO2_emission": 3.3,
+    "fibre_production": 7,
+    "tooltip_text": "Made from cellulose (plant fiber)"
+  },
+  {
+    "material": "Hemp",
+    "water_use": 89,
+    "energy_consumption": 22,
+    "CO2_emission": 3.1,
+    "fibre_production": 0.09,
+    "tooltip_text": "The most environmentally friendly fabric, but rough texture; Also usually mixed with other materials"
+  },
+  {
+    "material": "Polyamide",
+    "water_use": 40,
+    "energy_consumption": 160,
+    "CO2_emission": 8.3,
+    "fibre_production": 6.1,
+    "tooltip_text": "aka Nylon, low water use, but very high energy consumption"
+  },
+  {
+    "material": "Polyester",
+    "water_use": 21,
+    "energy_consumption": 108,
+    "CO2_emission": 3.3,
+    "fibre_production": 54,
+    "tooltip_text": "Synthetic material made from a chemical reaction between petroleum, air, and water"
+  }
+]
